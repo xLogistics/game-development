@@ -1,0 +1,11 @@
+public class Thingy {
+
+	public static void main(String[] args) {
+		variable (); //Something to add more spice
+	}
+	
+	static void variable () {
+		String string = "message that is good";
+		System.out.println(string);
+	}
+}
