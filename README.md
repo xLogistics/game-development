@@ -23,4 +23,4 @@ SOFTWARE.
 /
 
 
-This project will be used to communicate and utlise GitHub's advantages for a school project. 
+This project will be used to communicate and utilise GitHub's advantages for a school project. 
